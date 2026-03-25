@@ -1,0 +1,24 @@
+From edc3c95219fdca0b9351d701a470b9b4025de669 Mon Sep 17 00:00:00 2001
+From: Will Warner <willwwarner@proton.me>
+Date: Wed, 25 Mar 2026 17:14:00 -0400
+Subject: [PATCH] desktop file: add keywords
+
+---
+ data/org.gnome.gitlab.wwarner.Solitaire.desktop.in.in | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/data/org.gnome.gitlab.wwarner.Solitaire.desktop.in.in b/data/org.gnome.gitlab.wwarner.Solitaire.desktop.in.in
+index 40e2a4f..4ddaf1c 100644
+--- a/data/org.gnome.gitlab.wwarner.Solitaire.desktop.in.in
++++ b/data/org.gnome.gitlab.wwarner.Solitaire.desktop.in.in
+@@ -5,6 +5,6 @@ Icon=@app-id@
+ Terminal=true
+ Type=Application
+ Categories=Utility;
+-Keywords=GTK;
++Keywords=patience;cards;card game;klondike;freecell;tri peaks;spider;pyramid;yukon
+ StartupNotify=true
+ DBusActivatable=true
+\ No newline at end of file
+-- 
+
