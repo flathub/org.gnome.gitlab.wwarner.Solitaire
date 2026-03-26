@@ -32,7 +32,10 @@
                 },
                 {
                     "type": "patch",
-                    "path": "keywords.patch"
+                    "paths": [
+                        "keywords.patch",
+                        "metainfo.patch"
+                    ]
                 },
                 "solitaire-cargo-sources.json",
                 {
