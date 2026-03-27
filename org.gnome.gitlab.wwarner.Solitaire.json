@@ -34,7 +34,8 @@
                     "type": "patch",
                     "paths": [
                         "keywords.patch",
-                        "metainfo.patch"
+                        "metainfo.patch",
+                        "screenshot-fit.patch"
                     ]
                 },
                 "solitaire-cargo-sources.json",
