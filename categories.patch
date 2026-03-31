@@ -1,0 +1,26 @@
+From aa926b7a461cb92bc0167931e253f953f257a9f1 Mon Sep 17 00:00:00 2001
+From: Will Warner <willwwarner@proton.me>
+Date: Mon, 30 Mar 2026 22:38:20 -0400
+Subject: [PATCH] desktop file: add categories
+
+---
+ data/org.gnome.gitlab.wwarner.Solitaire.desktop.in.in | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/data/org.gnome.gitlab.wwarner.Solitaire.desktop.in.in b/data/org.gnome.gitlab.wwarner.Solitaire.desktop.in.in
+index 4ddaf1c..3f5e420 100644
+--- a/data/org.gnome.gitlab.wwarner.Solitaire.desktop.in.in
++++ b/data/org.gnome.gitlab.wwarner.Solitaire.desktop.in.in
+@@ -4,7 +4,7 @@ Exec=solitaire
+ Icon=@app-id@
+ Terminal=true
+ Type=Application
+-Categories=Utility;
++Categories=Game;CardGame;
+ Keywords=patience;cards;card game;klondike;freecell;tri peaks;spider;pyramid;yukon
+ StartupNotify=true
+ DBusActivatable=true
+\ No newline at end of file
+-- 
+GitLab
+
