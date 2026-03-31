@@ -30,6 +30,10 @@
                     "tag": "50.0.1",
                     "commit": "ebe3eeab9a5b9ea4f628bdb742a554c3afdfec71"
                 },
+                {
+                    "type": "patch",
+                    "path": "categories.patch"
+                },
                 "solitaire-cargo-sources.json",
                 {
                     "type" : "shell",
