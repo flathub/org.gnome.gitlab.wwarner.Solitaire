@@ -27,12 +27,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.gnome.org/wwarner/Solitaire.git",
-                    "tag": "50.0.1",
-                    "commit": "ebe3eeab9a5b9ea4f628bdb742a554c3afdfec71"
-                },
-                {
-                    "type": "patch",
-                    "path": "categories.patch"
+                    "tag": "50.1",
+                    "commit": "77d54364bb8b4eaccfddb6785b10f8563c1a2836"
                 },
                 "solitaire-cargo-sources.json",
                 {
