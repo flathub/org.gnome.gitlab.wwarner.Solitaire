@@ -1,7 +1,7 @@
 {
     "id": "org.gnome.gitlab.wwarner.Solitaire",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "50",
+    "runtime-version": "51",
     "sdk": "org.gnome.Sdk",
     "sdk-extensions": [
         "org.freedesktop.Sdk.Extension.rust-stable"
@@ -27,8 +27,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.gnome.org/wwarner/Solitaire.git",
-                    "tag": "50.3",
-                    "commit": "f0ea7c4019ab0969266defcbc46ea0e3d57ee167"
+                    "tag": "51.0",
+                    "commit": "b1465024eccf82f80f2ce655303ccc6626cf49e0"
                 },
                 "solitaire-cargo-sources.json",
                 {
