@@ -1,0 +1,26 @@
+From aa62a1c780c0b4a4ed0ab360b56063ce6d17cd0f Mon Sep 17 00:00:00 2001
+From: Will Warner <willwwarner@proton.me>
+Date: Mon, 19 Oct 2026 10:16:26 -0400
+Subject: [PATCH] metainfo: fix 51.1 release notes
+
+---
+ data/org.gnome.gitlab.wwarner.Solitaire.metainfo.xml.in.in | 4 +---
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+
+diff --git a/data/org.gnome.gitlab.wwarner.Solitaire.metainfo.xml.in.in b/data/org.gnome.gitlab.wwarner.Solitaire.metainfo.xml.in.in
+index cb9a61f..a80724c 100644
+--- a/data/org.gnome.gitlab.wwarner.Solitaire.metainfo.xml.in.in
++++ b/data/org.gnome.gitlab.wwarner.Solitaire.metainfo.xml.in.in
+@@ -57,9 +57,7 @@
+       <description>
+         <ul>
+           <li>Added the Hungarian translation</li>
+-          <li>Updated translations: Slovenian (Martin S.), Ukrainian (Yuri Chornoivan),
+-			Kazakh (Baurzhan Muftakhidinov), Swedish (Anders Jonsson)</li>
+-          <li>Updated libgnome-games-support</li>
++          <li>Updated translations: Slovenian, Ukrainian, Kazakh, Swedish</li>
+           <li>Made the game centered vertically</li>
+           <li>Made double-pressing move cards to the waste in Tri-Peaks</li>
+           <li>Added a deletion button for unfinished games</li>
+-- 
+
