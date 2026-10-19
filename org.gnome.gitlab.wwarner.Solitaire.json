@@ -38,6 +38,10 @@
                         "cat cargo/config >> .cargo/config.toml",
                         "cat .cargo/config.toml"
                     ]
+                },
+                {
+                    "type": "patch",
+                    "path": "metainfo.patch"
                 }
             ]
         }
